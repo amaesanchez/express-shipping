@@ -51,5 +51,5 @@ app.use(function (err, req, res, next) {
 
 
 app.listen(3001, function () {
-  console.log("ShipIt server started at http://localhost:3006".yellow);
+  console.log("ShipIt server started at http://localhost:3001".yellow);
 });
